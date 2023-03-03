@@ -6,8 +6,8 @@
 
 - 🎓 Estudante de engenharia de software na <a href="https://www4.unievangelica.edu.br">UniEVANGELICA</a>
 - 🔭 Analista de Teste/QA
-- 🕷 Pai de Aranha
-- 💻 Estou momentaneamente cursando o 3° Período de Engenharia de Software, estudando frameworks em linguagens de programação para QA e em geral estudando DEV.
+- 🕷  Pai de Aranha
+- 💻 Estou momentaneamente cursando o 5° Período de Engenharia de Software, estudando frameworks em linguagens de programação para QA e em geral estudando DEV.
 
 ##
 
