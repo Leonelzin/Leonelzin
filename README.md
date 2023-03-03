@@ -6,13 +6,14 @@
 
 - 🎓 Estudante de engenharia de software na <a href="https://www4.unievangelica.edu.br">UniEVANGELICA</a>
 - 🔍 QA Analyst
+- 🤖 QA Automation
 - 🕷  Pai de Aranha
-- 💻 Estou momentaneamente cursando o 5° Período de Engenharia de Software, estudando frameworks em linguagens de programação e em geral estudando DEV Back e Front.
+- 💻 Estou momentaneamente cursando o 5° Período de Engenharia de Software, estudando linguagens de programação em geral DEV Back e Frontend e quaisquer conteudo que se agrega na grade do curso.
 - 👨🏻‍💻 Software Engineer
 - 💼 INET / Redes Empresarias
 - 🎮 Gamer
 - 🏮 Level 20
-- 📍   Anápolis - GO
+- 📍  Anápolis - GO
 
 ##
 
