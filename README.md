@@ -12,7 +12,7 @@
 - 💼 INET / Redes Empresarias
 - 🎮 Gamer
 - 🏮 Level 20
-- 📍  Anápolis - GO
+- 📍   Anápolis - GO
 
 ##
 
