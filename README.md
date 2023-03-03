@@ -1,13 +1,18 @@
-<h3> 𝗠𝗲𝘂 𝗽𝗮𝘀𝘀𝗮𝗱𝗼 𝗲́ 𝗰𝗼𝗺𝗼 𝗼 𝘃𝗲𝗻𝘁𝗼, 𝗲𝘀𝘁𝗮́ 𝘀𝗲𝗺𝗽𝗿𝗲 𝗮𝗼 𝗺𝗲𝘂 𝗹𝗮𝗱𝗼.
+<h3> 𝗠𝗲𝘂 𝗽𝗮𝘀𝘀𝗮𝗱𝗼 𝗲́ 𝗰𝗼𝗺𝗼 𝗼 𝘃𝗲𝗻𝘁𝗼, 𝗲𝘀𝘁𝗮́ 𝘀𝗲𝗺𝗽𝗿𝗲 𝗮𝗼 𝗺𝗲𝘂 𝗹𝗮𝗱𝗼 🌪️.
  
 ## Hello World! <img align="left" alt="helloAle" height="50" width="50" src="https://media.giphy.com/media/l2JI9STocBUNT3zA4/giphy.gif"> <img align="right" alt="helloAle" height="50" width="50" src="https://media.giphy.com/media/l2JI9STocBUNT3zA4/giphy.gif"> 
  
-<h3> ⠀Pode me chamar de Leonel! </h3>
+<h3> Pode me chamar de Leonel! </h3>
 
 - 🎓 Estudante de engenharia de software na <a href="https://www4.unievangelica.edu.br">UniEVANGELICA</a>
-- 🔭 Analista de Teste/QA
+- 🔍 QA Analyst
 - 🕷  Pai de Aranha
-- 💻 Estou momentaneamente cursando o 5° Período de Engenharia de Software, estudando frameworks em linguagens de programação para QA e em geral estudando DEV.
+- 💻 Estou momentaneamente cursando o 5° Período de Engenharia de Software, estudando frameworks em linguagens de programação e em geral estudando DEV Back e Front.
+- 👨🏻‍💻 Software Engineer
+- 💼 INET / Redes Empresarias
+- 🎮 Gamer
+- 🏮 Level 20
+- 📍  𝗚𝗢
 
 ##
 
