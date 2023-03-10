@@ -14,14 +14,6 @@
 - 🎮 Gamer
 - 🏮 Level 20
 - 📍  Anápolis - GO
-
-##
-
- <div align="left">
-   <a href="https://github.com/helloAle"> <br>
-  username=YondaimeDinho&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
-   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YondaimeDinho&layout=compact&langs_count=7&theme=discord_old_blurple"/>
- </div> 
    
  ##
  <div align="left">
