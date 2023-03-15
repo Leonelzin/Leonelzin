@@ -4,16 +4,16 @@
  
 <h3> Pode me chamar de Leonel! </h3>
 
-- 🎓 Estudante de engenharia de software na <a href="https://www4.unievangelica.edu.br">UniEVANGELICA</a>
-- 🔍 QA Analyst
-- 🤖 QA Automation
-- 🕷  Pai de Aranha
-- 💻 Estou momentaneamente cursando o 5° Período de Engenharia de Software, estudando linguagens de programação em geral DEV Back e Frontend e quaisquer conteudo que se agrega na grade do curso.
-- 👨🏻‍💻 Software Engineer
-- 💼 INET / Redes Empresarias
-- 🎮 Gamer
-- 🏮 Level 20
-- 📍 Anápolis - GO
+•	💻 Estou momentaneamente cursando o 5° Período de Engenharia de Software, estudando linguagens de programação, em geral, DEV Back e Frontend, Automação, Testes de Software e quaisquer conteudo que se agrega na grade do curso
+•	🎓 Estudante de engenharia de software na universidade UNIEVANGELICA
+•	👨🏻‍💻 Software Engineer
+•	🔍 QA Analyst
+•	🤖 QA Automation
+•	💼 INET / Redes Empresarias
+•	🕷  Pai de Aranha
+•	🎮 Gamer
+•	🏮 Level 20
+•	📍  Anápolis - GO
 
 ##
 
