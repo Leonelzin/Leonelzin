@@ -4,6 +4,8 @@
  
 <h3> Pode me chamar de Leonel! </h3>
 
+##
+
 •	💻 Estou momentaneamente cursando o 5° Período de Engenharia de Software, estudando linguagens de programação, em geral, DEV Back e Frontend, Automação, Testes de Software e quaisquer conteudo que se agrega na grade do curso
 •	🎓 Estudante de engenharia de software na universidade UNIEVANGELICA
 •	👨🏻‍💻 Software Engineer
