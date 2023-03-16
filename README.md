@@ -40,11 +40,11 @@
   ##
    <div>
         <div align="left">
-        <a text align="left" href = "mailto:DouglasLuis2017@outlook.com.br">
+        <a text align="left" href = "mailto:douglasleonel@citeb.com.br">
          <img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"   target="_blank"></a>
         <a text align="left" href="https://www.linkedin.com/in/douglas-leonel-482029209/" target="_blank">
          <img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-        <a href="https://discord.gg/63embghu" target="_blank">
+        <a href="https://discord.gg/63embghu](https://discord.gg/7ZgRsYFuYA" target="_blank">
          <img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
         <a href="https://www.instagram.com/leonelzind_/" target="_blank">
          <img align="center" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"     target="_blank"></a>
