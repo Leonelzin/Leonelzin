@@ -9,7 +9,7 @@
 -	👨🏻‍💻 Software Engineer
 -	🔍 QA Analyst
 -	🤖 QA Automation
--	💼 INET / Redes Empresarias
+-	💼 INET / Redes Empresariais
 -	🕷  Pai de Aranha
 -	🎮 Gamer
 -	🏮 Level 20
