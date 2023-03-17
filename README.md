@@ -1,4 +1,4 @@
-<h3> 𝗠𝗲𝘂 𝗽𝗮𝘀𝘀𝗮𝗱𝗼 𝗲́ 𝗰𝗼𝗺𝗼 𝗼 𝘃𝗲𝗻𝘁𝗼, 𝗲𝘀𝘁𝗮́ 𝘀𝗲𝗺𝗽𝗿𝗲 𝗮𝗼 𝗺𝗲𝘂 𝗹𝗮𝗱𝗼 🌪️.
+<h3> Meu passado é como o vento, esta sempre ao meu lado 🌪️.
  
 ## Hello World! <img align="left" alt="helloAle" height="50" width="50" src="https://media.giphy.com/media/l2JI9STocBUNT3zA4/giphy.gif"> <img align="right" alt="helloAle" height="50" width="50" src="https://media.giphy.com/media/l2JI9STocBUNT3zA4/giphy.gif"> 
  
