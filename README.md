@@ -1,6 +1,6 @@
 <h3> Meu passado é como o vento, esta sempre ao meu lado 🌪️.
  
-## Hello World! <img align="left" alt="helloAle" height="50" width="50" src="https://media.giphy.com/media/l2JI9STocBUNT3zA4/giphy.gif"> <img align="right" alt="helloAle" height="50" width="50" src="https://media.giphy.com/media/l2JI9STocBUNT3zA4/giphy.gif"> 
+## Hello World! <img align="left" alt="helloAle" height="50" width="50" src="https://media.giphy.com/media/l2JI9STocBUNT3zA4/giphy.gif"> <img align="right" alt="Leonelzin" height="50" width="50" src="https://media.giphy.com/media/l2JI9STocBUNT3zA4/giphy.gif"> 
  
 <h3> Pode me chamar de Leonel! </h3>
 
@@ -18,7 +18,7 @@
 ##
 
  <div align="left">
-   <a href="https://github.com/helloLeo"> <br>
+   <a href="https://github.com/Leonelzin"> <br>
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Leonelzin&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonelzin&layout=compact&langs_count=7&theme=nord"/>
  </div> 
