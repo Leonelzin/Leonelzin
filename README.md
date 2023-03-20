@@ -1,6 +1,6 @@
 <h3> Meu passado é como o vento, esta sempre ao meu lado 🌪️.
  
-## Hello World! <img align="left" alt="helloAle" height="50" width="50" src="https://media.giphy.com/media/l2JI9STocBUNT3zA4/giphy.gif"> <img align="right" alt="Leonelzin" height="50" width="50" src="https://media.giphy.com/media/l2JI9STocBUNT3zA4/giphy.gif"> 
+## Hello World! <img align="left" alt="Leonelzin" height="50" width="50" src="https://media.giphy.com/media/l2JI9STocBUNT3zA4/giphy.gif"> <img align="right" alt="Leonelzin" height="50" width="50" src="https://media.giphy.com/media/l2JI9STocBUNT3zA4/giphy.gif"> 
  
 <h3> Pode me chamar de Leonel! </h3>
 
