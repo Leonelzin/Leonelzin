@@ -19,8 +19,8 @@
 
  <div align="left">
    <a href="https://github.com/helloLeo"> <br>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=helloLeo&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helloLeo&layout=compact&langs_count=7&theme=nord"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Leonelzin&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonelzin&layout=compact&langs_count=7&theme=nord"/>
  </div> 
    
  ##
