@@ -28,7 +28,7 @@
    
  ##
  <div align="center">
- <h3> Programming Languages | Other technologies </h3>
+ <h3> Programming Languages | Other Technologies </h3>
    <div style="display: inline_block">
     <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
     <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
