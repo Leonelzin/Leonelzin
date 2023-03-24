@@ -51,7 +51,9 @@
   ##
    <div>
         <div align="center">
-        <a text align="left" href = "mailto:douglasleonel@citeb.com.br">
+        <a href="left" href="https://www.youtube.com/channel/UCmysZ39iGbW41YoDMZR5hMg">
+         <img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+        <a text align="left" href="mailto:douglasleonel@citeb.com.br">
          <img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"   target="_blank"></a>
         <a text align="left" href="https://www.linkedin.com/in/douglas-leonel-482029209/" target="_blank">
          <img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
