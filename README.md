@@ -1,8 +1,12 @@
 <h3> Meu passado é como o vento, esta sempre ao meu lado 🌪️.
  
-## Hello World! <img align="left" alt="Leonelzin" height="50" width="50" src="https://media.giphy.com/media/l2JI9STocBUNT3zA4/giphy.gif"> <img align="right" alt="Leonelzin" height="50" width="50" src="https://media.giphy.com/media/l2JI9STocBUNT3zA4/giphy.gif"> 
+##
+ 
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BDAE&width=435&lines=Hello+world!)](https://git.io/typing-svg) <img align="left" alt="Leonelzin" height="50" width="50" src="https://media.giphy.com/media/l2JI9STocBUNT3zA4/giphy.gif"> <img align="right" alt="Leonelzin" height="50" width="50" src="https://media.giphy.com/media/l2JI9STocBUNT3zA4/giphy.gif"> 
  
 <h3> Pode me chamar de Leonel! </h3>
+ 
+##
 
 - 💻 Estou momentaneamente cursando o 5° Período de Engenharia de Software, estudando linguagens de programação, em geral, DEV Back e Frontend, Automação, Testes de Software e quaisquer conteudo que se agrega na grade do curso
 -	🎓 Estudante de engenharia de software na universidade UNIEVANGELICA
