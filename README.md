@@ -5,7 +5,7 @@
 
 ##
 
-<h3> Meu passado é como o vento, esta sempre ao meu lado 🌪️.
+<h3> Meu passado é como o vento, esta sempre ao meu lado. 🌪️
 
 ##
 
