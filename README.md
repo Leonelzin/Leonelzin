@@ -3,8 +3,6 @@
 
 <h3> Pode me chamar de Leonel! </h3>
 
-##
-
 <h3> Meu passado é como o vento, esta sempre ao meu lado. 🌪️
 
 ##
