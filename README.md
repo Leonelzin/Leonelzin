@@ -1,11 +1,12 @@
-<h3> Meu passado é como o vento, esta sempre ao meu lado 🌪️.
- 
-##
- 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BDAE&width=435&lines=Hello+world!)](https://git.io/typing-svg) <img align="left" alt="Leonelzin" height="50" width="50" src="https://media.giphy.com/media/l2JI9STocBUNT3zA4/giphy.gif"> <img align="right" alt="Leonelzin" height="50" width="50" src="https://media.giphy.com/media/l2JI9STocBUNT3zA4/giphy.gif"> 
- 
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BDAE&width=435&lines=Hello+world!)](https://git.io/typing-svg) 
+
+
 <h3> Pode me chamar de Leonel! </h3>
- 
+
+##
+
+<h3> Meu passado é como o vento, esta sempre ao meu lado 🌪️.
+
 ##
 
 - 💻 Estou momentaneamente cursando o 5° Período de Engenharia de Software, estudando linguagens de programação, em geral, DEV Back e Frontend, Automação, Testes de Software e quaisquer conteudo que se agrega na grade do curso
@@ -29,20 +30,23 @@
    
  ##
  <div align="center">
- <h3> Linguagens de programação </h3>
+ <h3> Programming Languages | Other technologies </h3>
    <div style="display: inline_block">
     <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
     <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="NPM" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg">
      <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+    <img align="center" alt="Oracle" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg">
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-    <img align="center" alt="GITHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
+    <img align="center" alt="GITHub" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
     <img align="center" alt="GIT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
     <img align="center" alt="GITLAB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg">
-    <img align="center" alt="Docker" height="30" width="40" src="https://img.icons8.com/fluency/344/docker.png">
+    <img align="center" alt="Docker" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg">
+    <img align="center" alt="Linux" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
   
   ##
    <div>
