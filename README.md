@@ -1,12 +1,13 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BDAE&width=435&lines=Hello+world!)](https://git.io/typing-svg) 
 
 
-<h3> Pode me chamar de Leonel! </h3>
-
-<h3> Meu passado é como o vento, esta sempre ao meu lado. 🌪️
+<h3> Pode me chamar de Leonel! 👨🏻‍🚀 </h3>
 
 ##
-
+<div align="center">
+<h3> About me 🙋🏻‍♂️ </h3>
+ </div> 
+ 
 - 💻 Estou momentaneamente cursando o 5° Período de Engenharia de Software, estudando linguagens de programação, em geral, DEV Back e Frontend, Automação, Testes de Software e quaisquer conteudo que se agrega na grade do curso
 -	🎓 Estudante de engenharia de software na universidade UNIEVANGELICA
 -	👨🏻‍💻 Software Engineer
@@ -18,8 +19,9 @@
 -	🏮 Level 20
 -	📍  Anápolis - GO
 
-##
-
+## 
+<div align="center">
+<h3> Skill's 👾 </h3>
  <div align="center">
    <a href="https://github.com/Leonelzin"> <br>
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Leonelzin&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
@@ -28,7 +30,7 @@
    
  ##
  <div align="center">
- <h3> Programming Languages | Other Technologies </h3>
+ <h3> Programming Languages | Other Technologies 💻 </h3>
    <div style="display: inline_block">
     <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
     <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
@@ -47,6 +49,8 @@
     <img align="center" alt="Linux" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
   
   ##
+ <div align="center">
+ <h3> Social medias 🤳🏻 </h3>
    <div>
         <div align="center">
         <a text align="left" href="mailto:douglasleonel@citeb.com.br">
@@ -65,5 +69,10 @@
     </div>
 
  ##
+ <div align="center">
+ <h3> Snake Game 🐍 </h3>
  
  ![Snake animation](https://github.com/helloAle/helloAle/blob/output/github-contribution-grid-snake.svg)
+ 
+ ##
+ <h3> Meu passado é como o vento, esta sempre ao meu lado. 🌪️
