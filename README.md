@@ -85,7 +85,7 @@
 
   ##
  <div align="center">
- <h3> Social medias 🤳🏻 </h3>
+ <h3> Social media's 🤳🏻 </h3>
    <div>
         <div align="center">
         <a text align="left" href="mailto:douglasleonel@citeb.com.br">
