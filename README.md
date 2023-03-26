@@ -60,12 +60,12 @@
     <img align="center" alt="Trello" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg"/>
     
 ##
-<h3> Automated Tools 🦾 </h3>    
+<h3> Automated Tool's 🦾 </h3>    
     <img align="center" alt="Jenkis" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"/>
     <img align="center" alt="Selenium" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg"/>
     
 ##
-<h3> Browsers 🌌 </h3>    
+<h3> Browser's 🌌 </h3>    
     <img align="center" alt="Google" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"/>
     <img align="center" alt="Firefox" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg"/>
     <img align="center" alt="Opera" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-original.svg"/>
