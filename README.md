@@ -8,7 +8,7 @@
 <h3> About me 🙋🏻‍♂️ </h3>
  </div> 
  
-- 👨🏻‍🎓 Estou momentaneamente cursando o 5° Período de Engenharia de Software, estudando programação, automação e testes de software, além de disciplinas como Programação Orientada a Objetos, Banco de Dados, Gerência de Projetos de Software e Engenharia de Software Experimental. Aprendi várias linguagens de programação e ferramentas de automação, como Jenkins e Docker, e técnicas de testes de software para garantir a qualidade do software produzido.
+- 👨🏻‍🎓 Estou momentaneamente cursando o 6° Período de Engenharia de Software, estudando programação, automação e testes de software, além de disciplinas como Programação Orientada a Objetos, Banco de Dados, Gerência de Projetos de Software e Engenharia de Software Experimental. Aprendi várias linguagens de programação e ferramentas de automação, como Jenkins e Docker, e técnicas de testes de software para garantir a qualidade do software produzido.
 -	🎓 Estudante de Engenharia de Software na universidade UNIEVANGELICA
 -	👨🏻‍💻 Software Engineer
 -	🔍 QA Analyst
