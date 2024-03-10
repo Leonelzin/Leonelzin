@@ -95,7 +95,7 @@
          <img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"   target="_blank"></a>
         <a text align="left" href="https://www.linkedin.com/in/douglas-leonel-482029209/" target="_blank">
          <img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-        <a href="https://www.twitch.tv/yondaimedinho" target="_blank">
+        <a href="https://www.twitch.tv/leonelzind" target="_blank">
          <img align="center" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
         <a href="https://www.youtube.com/channel/UCmysZ39iGbW41YoDMZR5hMg" target="_blank">
          <img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
