@@ -51,8 +51,7 @@
           
 
 ##
-<h3> GIT 🦊 </h3>    
-    <img align="center" alt="GITHub" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
+<h3> GIT 🦊 </h3>   
     <img align="center" alt="GIT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
     <img align="center" alt="GITLAB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg">
     
