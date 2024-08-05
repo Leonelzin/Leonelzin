@@ -13,9 +13,8 @@
 -	🔍 QA Analyst
 -	🤖 QA Automation
 -	💼 INET | Redes Empresariais
--	🕷  Pai de Aranha
 -	🎮 Gamer
--	🏮 Level 21
+-	🎂 Level 21
 -	📍  Anápolis - GO
 
 ## 
