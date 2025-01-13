@@ -8,7 +8,7 @@
 <h3> About me 🙋🏻‍♂️ </h3>
  </div> 
  
--	🎓 Estou momentaneamente cursando o 8° Período de Engenharia de Software na universidade UNIEVANGELICA
+-	🎓 Formado em Engenharia de Software na universidade UNIEVANGELICA
 -	👨🏻‍💻 Software Engineer
 -	🔍 QA Analyst
 -	🤖 QA Automation
