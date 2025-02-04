@@ -1,21 +1,21 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BDAE&width=435&lines=Hello+world!)](https://git.io/typing-svg) 
 
 
-<h3> Pode me chamar de Leonel! 👨🏻‍🚀 </h3>
+<h3> You can call me Leonel! 👨🏻‍🚀 </h3>
 
 ##
 <div align="center">
 <h3> About me 🙋🏻‍♂️ </h3>
  </div> 
  
--	🎓 Formado em Engenharia de Software na universidade UNIEVANGELICA
--	👨🏻‍💻 Software Engineer
--	🔍 QA Analyst
--	🤖 QA Automation
--	💼 INET | Redes Empresariais
--	🎮 Gamer
--	🎂 Level 22
--	📍  Anápolis - GO
+-	🎓 Graduated in Software Engineering from UNIEVANGELICA University
+- 👨🏻‍💻 Software Engineer
+- 🔍 QA Analyst
+- 🤖 QA Automation
+- 💼 INET | Enterprise Networks
+- 🎮 Gamer
+- 🎂 Level 22
+- 📍 Anápolis - GO
 
 ## 
 <div align="center">
@@ -127,4 +127,4 @@
 </picture>
  
  ##
- <h3> Meu passado é como o vento, esta sempre ao meu lado. 🌪️
+ <h3> My past is like the wind, always by my side. 🌪️
