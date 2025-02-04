@@ -13,7 +13,7 @@
 -	🔍 QA Analyst
 -	🤖 QA Automation
 -	💼 INET | Redes Empresariais
--	🎮 Gamer
+-	🎮 Gamerr
 -	🎂 Level 22
 -	📍  Anápolis - GO
 
