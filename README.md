@@ -66,8 +66,8 @@
 <h3> Automated Tool's 🦾 </h3>    
     <img align="center" alt="Jenkis" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"/>
     <img align="center" alt="Selenium" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg"/>
-    <img align="center" alt="Robot Framework" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Robot-framework-logo.png"/>
-    
+    <img align="center" alt="Playwright" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg"/>
+              
 ##
 <h3> Browser's 🌌 </h3>    
     <img align="center" alt="Google" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"/>
