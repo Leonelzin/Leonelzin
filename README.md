@@ -47,7 +47,6 @@
     <img align="center" alt="Docker" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg">
     <img align="center" alt="PUTTY" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg">
           
-
 ##
 <h3> GIT 🦊 </h3>   
     <img align="center" alt="GIT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
@@ -57,6 +56,11 @@
 <h3> Board's 📚 </h3>    
     <img align="center" alt="Jira" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg"/>
     <img align="center" alt="Trello" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg"/>
+
+##
+<h3> API's Framework 🔧 </h3>    
+    <img align="center" alt="Postman" height="30" width="30" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/>
+    <img align="center" alt="Insonmia" height="30" width="30" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/insomnia.svg"/>
     
 ##
 <h3> Automated Tool's 🦾 </h3>    
@@ -87,8 +91,10 @@
  <h3> Social media's 🤳🏻 </h3>
    <div>
         <div align="center">
-        <a text align="left" href="mailto:douglasleonel@citeb.com.br">
-         <img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"   target="_blank"></a>
+        <a href="https://www.canva.com/design/DAEvP8F4P8k/cWEDeExo8lBgDuztbDXJDA/edit" target="_blank">
+         <img align="center" src="https://img.shields.io/badge/-Currículo-%230A66C2?style=for-the-badge&logo=readthedocs&logoColor=white" target="_blank"></a>
+        <a text align="left" href="mailto:deliriummaybe@gmail.com">
+         <img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
         <a text align="left" href="https://www.linkedin.com/in/douglas-leonel-482029209/" target="_blank">
          <img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
         <a href="https://www.twitch.tv/leonelzind/about" target="_blank">
