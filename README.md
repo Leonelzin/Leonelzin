@@ -7,8 +7,8 @@
 <div align="center">
 <h3> About me 🙋🏻‍♂️ </h3>
  </div> 
- 
--	🎓 Graduated in Software Engineering from UNIEVANGELICA University
+
+-	🎓 Graduated in Software Engineering from UNIEVANGELICA Universityand post-graduated in QA and Software Testing at VINCIT College.
 - 👨🏻‍💻 Software Engineer
 - 🔍 QA Analyst
 - 🤖 QA Automation
