@@ -1,5 +1,6 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BDAE&width=435&lines=Hello+world!)](https://git.io/typing-svg) 
+<div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDAE&background=0D1117&center=true&vCenter=true&multiline=true&width=750&height=100&lines=Initializing+interface...;SYSTEM+ONLINE%3A+Hello+World!+Welcome+to+my+Github+Profile)](https://git.io/typing-svg)
 
 <h3> You can call me Leonel! 👨🏻‍🚀 </h3>
 
@@ -8,14 +9,40 @@
 <h3> About me 🙋🏻‍♂️ </h3>
  </div> 
 
--	🎓 Graduated in Software Engineering from UNIEVANGELICA University and post-graduated in QA and Software Testing at VINCIT College
-- 👨🏻‍💻 Software Engineer
-- 🔍 QA Analyst
-- 🤖 QA Automation
-- 💼 INET | Enterprise Networks
-- 🎮 Gamer
-- 🎂 Level 22
-- 📍 Anápolis - GO
+<table>
+ <tr>
+    <td align="left">🎓</td>
+    <td align="left">Bachelor's Degree in Software Engineering by <a href="https://www4.unievangelica.edu.br/">Universidade Evangélica de Goiás</a></td>
+  </tr>
+  <tr>
+    <td align="left">📚</td>
+    <td align="left">Postgraduate Degree in Distributed Systems Architecture in progress by <a href="https://www.faculdadevincit.edu.br/cursos/qa-e-teste-de-software">Faculdade FACINT</a></td>
+  </tr>
+  <tr>
+    <td align="left">🔍</td>
+    <td align="left">QA Analyst</td>
+  </tr>
+  <tr>
+    <td align="left">🤖</td>
+    <td align="left">QA Automation</td>
+  </tr>
+  <tr>
+    <td align="left">💼</td>
+    <td align="left">INET | Enterprise Networks</td>
+  </tr>
+  <tr>
+    <td align="left">🎮</td>
+    <td align="left">Gamer</td>
+  </tr>
+  <tr>
+    <td align="left">🎂</td>
+    <td align="left">Level 22</td>
+  </tr>
+  <tr>
+    <td align="left">📍</td>
+    <td align="left">Anápolis - GO</td>
+  </tr>
+</table>
 
 ## 
 <div align="center">
