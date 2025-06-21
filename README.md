@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDAE&background=0D1117&center=true&vCenter=true&multiline=true&width=750&height=100&lines=Initializing+interface...;SYSTEM+ONLINE%3A+Hello+World!+Welcome+to+my+Github+Profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDAE&background=0D1117&center=true&vCenter=true&multiline=true&width=750&height=70&lines=Initializing+interface...;SYSTEM+ONLINE%3A+Hello+World!+Welcome+to+my+Github+Profile)](https://git.io/typing-svg)
 
 <h3> You can call me Leonel! 👨🏻‍🚀 </h3>
 
