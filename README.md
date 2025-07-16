@@ -53,13 +53,23 @@
 ## 
 <div align="center">
 <h3> My Skills 👾 </h3>
- <div align="center">
-   <a href="https://github.com/Leonelzin"> <br>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Leonelzin&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonelzin&layout=compact&langs_count=7&theme=gotham"/>
- </div> 
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Leonelzin&theme=blueberry&show_icons=true&hide_border=false&count_private=true"/>
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Leonelzin&theme=blueberry&hide_border=false"/>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonelzin&theme=blueberry&show_icons=true&hide_border=false&layout=compact" width="310" />
+      </td>
+    </tr>
+  </table>
+</div>
    
- ##
  <div align="center">
  <h3> Programming Languages 🗣️ </h3>
    <div style="display: inline_block">
