@@ -58,13 +58,13 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Leonelzin&theme=blueberry&show_icons=true&hide_border=false&count_private=true" width="480"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=Leonelzin&theme=blueberry&show_icons=true&hide_border=false&count_private=true" width="550"/>
       </td>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Leonelzin&theme=blueberry&hide_border=false" width="460"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Leonelzin&theme=blueberry&hide_border=false" width="520"/>
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonelzin&theme=blueberry&show_icons=true&hide_border=false&layout=compact" width="330" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonelzin&theme=blueberry&show_icons=true&hide_border=false&layout=compact" width="360" />
       </td>
     </tr>
   </table>
