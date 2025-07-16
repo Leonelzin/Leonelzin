@@ -52,7 +52,7 @@
 
 ## 
 <div align="center">
-<h3> My Stats 👾 </h3>
+<h3> My Skills 👾 </h3>
  <div align="center">
    <a href="https://github.com/Leonelzin"> <br>
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Leonelzin&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
