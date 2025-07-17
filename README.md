@@ -55,19 +55,19 @@
 <h3> My Skills 👾 </h3>
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Leonelzin&theme=blueberry&show_icons=true&hide_border=false&count_private=true"/>
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Leonelzin&theme=blueberry&hide_border=false"/>
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonelzin&theme=blueberry&show_icons=true&hide_border=false&layout=compact"/>
-      </td>
-    </tr>
-  </table>
+  <table border="0" cellpadding="0" cellspacing="0" align="center" style="width:100%; max-width:900px;">
+    <tr align="center">
+      <td style="width:33%; padding:10px;">
+        <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=Leonelzin&theme=blueberry&show_icons=true&hide_border=false&count_private=true"/>
+      </td>
+      <td style="width:33%; padding:10px;">
+        <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonelzin&theme=blueberry&show_icons=true&hide_border=false&layout=compact"/>
+      </td>
+      <td style="width:33%; padding:10px;">
+        <img align="center" width="100%" src="https://git-hub-streak-stats.vercel.app/?user=Leonelzin&theme=blueberry&hide_border=false"/>
+      </td>
+    </tr>
+  </table>
 </div>
    
  <div align="center">
