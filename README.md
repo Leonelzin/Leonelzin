@@ -22,7 +22,7 @@
   </tr>
   <tr>
     <td align="left">📚</td>
-    <td align="left">Postgraduate Degree in QA and Software Testing in progress by <a href="https://www.faculdadevincit.edu.br/cursos/qa-e-teste-de-software">Faculdade FACINT</a></td>
+    <td align="left">Postgraduate Degree in QA and Software Testing by <a href="https://www.faculdadevincit.edu.br/cursos/qa-e-teste-de-software">Faculdade FACINT</a></td>
   </tr>
   <tr>
     <td align="left">🔍</td>
