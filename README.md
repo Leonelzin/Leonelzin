@@ -42,7 +42,7 @@
   </tr>
   <tr>
     <td align="left">🎂</td>
-    <td align="left">Level 22</td>
+    <td align="left">Level 23</td>
   </tr>
   <tr>
     <td align="left">📍</td>
