@@ -57,18 +57,22 @@
 <div align="center">
   <table border="0" cellpadding="0" cellspacing="0" align="center" style="width:100%; max-width:900px;">
     <tr align="center">
+      <!-- GitHub Stats -->
       <td style="width:33%; padding:10px;">
-        <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=Leonelzin&theme=blueberry&show_icons=true&hide_border=false&count_private=true"/>
+        <img width="90%" src="https://github-readme-stats.vercel.app/api?username=Leonelzin&theme=blueberry&show_icons=true&count_private=true"/>
       </td>
+      <!-- GitHub Streak -->
       <td style="width:33%; padding:10px;">
-        <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonelzin&theme=blueberry&show_icons=true&hide_border=false&layout=compact"/>
+       <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Leonelzin&theme=blueberry"/>
       </td>
+      <!-- Top Languages -->
       <td style="width:33%; padding:10px;">
-        <img align="center" width="100%" src="https://git-hub-streak-stats.vercel.app/?user=Leonelzin&theme=blueberry&hide_border=false"/>
+        <img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonelzin&layout=donut&theme=blueberry"/>
       </td>
     </tr>
   </table>
 </div>
+
    
  <div align="center">
  <h3> Programming Languages 🗣️ </h3>
