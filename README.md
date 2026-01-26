@@ -59,15 +59,15 @@
     <tr align="center">
       <!-- GitHub Stats -->
       <td style="width:33%; padding:10px;">
-        <img width="90%" src="https://github-readme-stats.vercel.app/api?username=Leonelzin&theme=blueberry&show_icons=true&count_private=true"/>
+        <img width="90%" src="https://github-readme-stats.vercel.app/api?username=Leonelzin&theme=nord&show_icons=true&count_private=true"/>
       </td>
       <!-- GitHub Streak -->
       <td style="width:33%; padding:10px;">
-       <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Leonelzin&theme=blueberry"/>
+        <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Leonelzin&theme=nord"/>
       </td>
       <!-- Top Languages -->
       <td style="width:33%; padding:10px;">
-        <img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonelzin&layout=donut&theme=blueberry"/>
+        <img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonelzin&layout=donut&theme=nord"/>
       </td>
     </tr>
   </table>
