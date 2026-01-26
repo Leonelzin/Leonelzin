@@ -54,24 +54,21 @@
 <div align="center">
 <h3> My Skills 👾 </h3>
 
-<div align="center">
-  <table border="0" cellpadding="0" cellspacing="0" align="center" style="width:100%; max-width:900px;">
-    <tr align="center">
-      <!-- GitHub Stats -->
-      <td style="width:33%; padding:10px;">
-        <img width="90%" src="https://github-readme-stats.vercel.app/api?username=Leonelzin&theme=nord&show_icons=true&count_private=true"/>
-      </td>
-      <!-- GitHub Streak -->
-      <td style="width:33%; padding:10px;">
-        <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Leonelzin&theme=nord"/>
-      </td>
-      <!-- Top Languages -->
-      <td style="width:33%; padding:10px;">
-        <img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonelzin&layout=donut&theme=nord"/>
-      </td>
-    </tr>
-  </table>
-</div>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="33%">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=Leonelzin&theme=gotham&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged"
+        width="100%"
+      />
+    <td align="center" width="33%">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonelzin&layout=donut&theme=gotham"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
 
    
  <div align="center">
