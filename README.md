@@ -20,10 +20,16 @@
     <td align="left">🎓</td>
     <td align="left">Bachelor's Degree in Software Engineering by <a href="https://www4.unievangelica.edu.br/">Universidade Evangélica de Goiás</a></td>
   </tr>
-  <tr>
-    <td align="left">📚</td>
-    <td align="left">Postgraduate Degree in QA and Software Testing by <a href="https://www.faculdadevincit.edu.br/cursos/qa-e-teste-de-software">Faculdade FACINT</a></td>
-  </tr>
+ <tr>
+  <td align="left">📚</td>
+  <td align="left">
+    Postgraduate Degrees by 
+      <a href="https://www.faculdadevincit.edu.br">Faculdade FACINT</a>
+    </strong><br/>
+    • QA and Software Testing<br/>
+    • Ethical Hacking and Cybersecurity <em>(In Progress)</em>
+  </td>
+</tr>
   <tr>
     <td align="left">🔍</td>
     <td align="left">QA Analyst</td>
