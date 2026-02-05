@@ -149,7 +149,7 @@
  <h3> Social medias 🤳🏻 </h3>
    <div>
         <div align="center">
-        <a href="https://www.canva.com/design/DAEvP8F4P8k/cWEDeExo8lBgDuztbDXJDA/edit" target="_blank">
+        <a href="https://www.canva.com/design/DAGq7Dmk2PA/lN09Z5ifWDH2YsnnKd_Jwg/edit?utm_content=DAGq7Dmk2PA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">
          <img align="center" src="https://img.shields.io/badge/-Currículo-%230A66C2?style=for-the-badge&logo=readthedocs&logoColor=white" target="_blank"></a>
         <a text align="left" href="mailto:douglas.leonel@vertis-solutions.com">
          <img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
