@@ -60,23 +60,35 @@
 <div align="center">
 <h3> My Skills 👾 </h3>
 
+<p align="center">
+	<a href="https://github.com/Leonelzin/Morpheus-Zeus-V3/stargazers">
+		<img src="https://img.shields.io/github/stars/Leonelzin/Morpheus-Zeus-V3?style=for-the-badge">
+	</a>
+	<a href="https://github.com/Leonelzin/Morpheus-Zeus-V3/issues">
+		<img src="https://img.shields.io/github/issues/Leonelzin/Morpheus-Zeus-V3?style=for-the-badge">
+	</a>
+	<a href="https://github.com/Leonelzin/Morpheus-Zeus-V3/contributors">
+		<img src="https://img.shields.io/github/contributors/Leonelzin/Morpheus-Zeus-V3?style=for-the-badge">
+	</a>
+</p>
+
 <table align="center" width="100%">
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="50%">
       <img
-        src="https://github-readme-stats.vercel.app/api?username=Leonelzin&theme=gotham&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged"
-        width="100%"
+        src="https://streak-stats.demolab.com?user=Leonelzin&theme=gotham&mode=weekly"
+        height="165"
       />
-    <td align="center" width="33%">
+    </td>
+    <td align="center" width="50%">
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonelzin&layout=donut&theme=gotham"
-        width="100%"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Leonelzin&theme=gotham&mode=weekly"
+        height="130"
       />
     </td>
   </tr>
 </table>
 
-   
  <div align="center">
  <h3> Programming Languages 🗣️ </h3>
    <div style="display: inline_block">
