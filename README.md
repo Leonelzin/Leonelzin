@@ -60,18 +60,6 @@
 <div align="center">
 <h3> My Skills 👾 </h3>
 
-<p align="center">
-	<a href="https://github.com/Leonelzin/Morpheus-Zeus-V3/stargazers">
-		<img src="https://img.shields.io/github/stars/Leonelzin/Morpheus-Zeus-V3?style=for-the-badge">
-	</a>
-	<a href="https://github.com/Leonelzin/Morpheus-Zeus-V3/issues">
-		<img src="https://img.shields.io/github/issues/Leonelzin/Morpheus-Zeus-V3?style=for-the-badge">
-	</a>
-	<a href="https://github.com/Leonelzin/Morpheus-Zeus-V3/contributors">
-		<img src="https://img.shields.io/github/contributors/Leonelzin/Morpheus-Zeus-V3?style=for-the-badge">
-	</a>
-</p>
-
 <table align="center" width="100%">
   <tr>
     <td align="center" width="50%">
