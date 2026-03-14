@@ -13,23 +13,33 @@
 ##
 <div align="center">
 <h3> About me 🙋🏻‍♂️ </h3>
- </div> 
+</div> 
 
 <table>
  <tr>
     <td align="left">🎓</td>
-    <td align="left">Bachelor's Degree in Software Engineering by <a href="https://www4.unievangelica.edu.br/">Universidade Evangélica de Goiás</a></td>
+    <td align="left">Bachelor's Degree in Software Engineering by <a href="https://www4.unievangelica.edu.br/">Evangelical University of Goiás</a></td>
   </tr>
+
+  <tr>
+    <td align="left">📓</td>
+    <td align="left">
+      Professional Master's Degree in Software Engineering <em>(In Progress)</em> by 
+      <a href="https://unipampa.edu.br">Federal University of Pampa</a>
+    </td>
+  </tr>
+
  <tr>
   <td align="left">📚</td>
   <td align="left">
     Postgraduate Degrees by 
-      <a href="https://www.faculdadevincit.edu.br">Faculdade FACINT</a>
+      <a href="https://www.faculdadevincit.edu.br">Faculty FACINT</a>
     </strong><br/>
     • QA and Software Testing<br/>
     • Ethical Hacking and Cybersecurity <em>(In Progress)</em>
   </td>
 </tr>
+
   <tr>
     <td align="left">🔍</td>
     <td align="left">QA Analyst</td>
