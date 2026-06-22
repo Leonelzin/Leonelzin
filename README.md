@@ -80,7 +80,7 @@
     </td>
     <td align="center" width="50%">
       <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Leonelzin&theme=gotham&mode=weekly"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonelzin&layout=compact&theme=gotham&hide_border=true)](https://github.com/Leonelzin"
         height="130"
       />
     </td>
