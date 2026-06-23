@@ -181,6 +181,26 @@
 
 </div>
 
+  ##
+ <div align="center">
+ <h3> Social medias 🤳🏻 </h3>
+   <div>
+        <div align="center">
+        <a href="https://www.canva.com/design/DAGq7Dmk2PA/lN09Z5ifWDH2YsnnKd_Jwg/edit?utm_content=DAGq7Dmk2PA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">
+         <img align="center" src="https://img.shields.io/badge/-Curriculum-%230A66C2?style=for-the-badge&logo=readthedocs&logoColor=white" target="_blank"></a>
+        <a text align="left" href="mailto:douglas.leonel@vertis-solutions.com">
+         <img align="center" src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+        <a href="https://www.twitch.tv/leonelzind/about" target="_blank">
+         <img align="center" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
+        <a href="https://www.youtube.com/channel/UCmysZ39iGbW41YoDMZR5hMg" target="_blank">
+         <img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+        <a href="https://discord.gg/63embghu](https://discord.gg/7ZgRsYFuYA" target="_blank">
+         <img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+        <a href="https://www.instagram.com/leonelzind_/" target="_blank">
+         <img align="center" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"     target="_blank"></a>
+         </div>
+    </div> 
+
  ##
  <div align="center">
  <h3> Snake Game 🐍 </h3>
