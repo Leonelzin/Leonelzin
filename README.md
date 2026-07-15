@@ -80,8 +80,8 @@
     </td>
     <td align="center" width="50%">
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonelzin&layout=compact&theme=gotham&hide_border=true)](https://github.com/Leonelzin"
-        height="130"
+        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Leonelzin&layout=compact&theme=gotham&hide_border=false"
+        height="140"
       />
     </td>
   </tr>
