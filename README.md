@@ -81,7 +81,7 @@
     <td align="center" width="50%">
       <img
         src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Leonelzin&layout=compact&theme=gotham&hide_border=false"
-        height="140"
+        height="130"
       />
     </td>
   </tr>
