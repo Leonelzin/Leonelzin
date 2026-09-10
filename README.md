@@ -74,13 +74,13 @@
   <tr>
     <td align="center" width="50%">
       <img
-        src="https://streak-stats.demolab.com?user=Leonelzin&theme=gotham&mode=weekly"
+        src="https://readme-stats-github.pages.dev/api?username=Leonelzin&theme=shadow"
         height="160"
       />
     </td>
     <td align="center" width="50%">
       <img
-        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Leonelzin&layout=compact&theme=gotham&hide_border=false"
+        src="https://readme-stats-github.pages.dev/api/top-langs?username=Leonelzin&theme=shadow"
         height="120"
       />
     </td>
