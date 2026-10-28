@@ -73,16 +73,10 @@
 <table align="center" width="100%">
   <tr>
     <td align="center" width="50%">
-      <img
-        src="https://readme-stats-github.pages.dev/api?username=Leonelzin&theme=shadow"
-        height="160"
-      />
+      <img src="https://github-stats-extended.vercel.app/api?username=Leonelzin&theme=tokyonight&show_icons=true&hide_border=true&rank_icon=github" width="120%" />
     </td>
     <td align="center" width="50%">
-      <img
-        src="https://readme-stats-github.pages.dev/api/top-langs?username=Leonelzin&theme=shadow"
-        height="120"
-      />
+      <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Leonelzin&theme=tokyonight&layout=compact&langs_count=6&hide_border=true" width="77%" />
     </td>
   </tr>
 </table>
