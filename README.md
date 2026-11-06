@@ -58,7 +58,7 @@
   </tr>
   <tr>
     <td align="left">🎂</td>
-    <td align="left">Level 23</td>
+    <td align="left">Level 24</td>
   </tr>
   <tr>
     <td align="left">📍</td>
@@ -73,10 +73,10 @@
 <table align="center" width="100%">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-stats-extended.vercel.app/api?username=Leonelzin&theme=tokyonight&show_icons=true&hide_border=true&rank_icon=github" width="120%" />
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Leonelzin&layout=donut&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=6&size_weight=0.5&count_weight=0.5" width="250" />
     </td>
     <td align="center" width="50%">
-      <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Leonelzin&theme=tokyonight&layout=compact&langs_count=6&hide_border=true" width="77%" />
+      <img src="https://streak-stats.demolab.com?user=Leonelzin&theme=tokyonight&hide_border=true&background=00000000" width="300" />
     </td>
   </tr>
 </table>
