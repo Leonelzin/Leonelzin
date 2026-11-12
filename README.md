@@ -36,7 +36,7 @@
       <a href="https://www.faculdadevincit.edu.br">Faculty FACINT</a>
     </strong><br/>
     • QA and Software Testing<br/>
-    • Ethical Hacking and Cybersecurity <em>(In Progress)</em>
+    • Ethical Hacking and Cybersecurity<br/>
   </td>
 </tr>
 
