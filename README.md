@@ -33,7 +33,7 @@
   <td align="left">📚</td>
   <td align="left">
     Postgraduate Degrees by 
-      <a href="[https://www.faculdadevincit.edu.br](https://unintegracao.com.br/)">Faculty FACINT | Unintegração</a>
+      <a href="[https://www.faculdadevincit.edu.br](https://unintegracao.com.br/)">Faculty FACINT | UNINTEGRAÇÃO</a>
     </strong><br/>
     • QA and Software Testing<br/>
     • Ethical Hacking and Cybersecurity<br/>
